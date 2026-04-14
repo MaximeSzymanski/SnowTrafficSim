@@ -6,7 +6,7 @@ This project implements a **custom multi-agent reinforcement learning system** d
 It focuses on building a **realistic, scalable MARL environment** where heterogeneous agents must coordinate under physical and logistical constraints.
 
 🎬 *Simulation demo*  
-![GifResult](gif/result.gif)
+![GifResult](result.gif)
 
 ---
 
